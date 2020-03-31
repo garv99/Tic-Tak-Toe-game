@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tic tak toe</string>
+    <string name="heading">WELCOME TO TIC TAK TOE !!</string>
+    <string name="credit">By GARVIK</string>
+</resources>
